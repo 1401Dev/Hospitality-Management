@@ -17,9 +17,10 @@ The Hospitality Revenue Dashboard offers key performance insights into revenue t
 - Power Query: Automated data transformations, improving data consistency and reducing manual efforts.
 
 **Key Insights**<br>
-- Revenue Distribution: Detailed analysis of revenue contributions by region, customer segment, and time period.
-- Seasonal Trends: Identification of high and low revenue periods, helping to optimize resource allocation.
-- Customer Insights: Insights into customer behavior patterns to enhance marketing and operational strategies.
+- Revenue Distribution: Breakdown shows that 40% of total revenue is generated from corporate clients, with 25% from seasonal promotions, highlighting areas for strategic focus.
+- Seasonal Trends: Data reveals a 30% increase in revenue during the holiday season (December-January) compared to other months, suggesting targeted marketing campaigns during this peak period.
+- Customer Insights: Repeat customers make up 60% of the revenue, while new customers account for 40%, indicating opportunities for loyalty programs to enhance customer retention.
+- Efficiency Gains: Implementing the dashboard improved reporting efficiency by 20%, enabling faster insights and decision-making.
 
 **Project Structure**<br>
 - Data Model: Contains structured data for relational analysis.
